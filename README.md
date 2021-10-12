@@ -20,8 +20,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> </a>
 <a href="https://www.php.net/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-line-wordmark.svg" /> </a>
-<a href="https://keras.io/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> </a>
 <a href="https://www.docker.com/" target="_blank"> <img target="_blank" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> </a>
 <a href="https://github.com/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" /> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img target="_blank" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> </a>
