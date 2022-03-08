@@ -4,7 +4,7 @@
 
 #### :pencil: About me:
 
-- 🔭 2021 Summer job: Software Engineer Intern @ Citrix
+- 🔭 2022 Winter job: Junior Data Science Intern - AI Data Research @ Orfium 
 - 🌱 Main Interests: (Quantum) AI (Machine/ Deep Learning), Internet of Things, (Blockchain) Security, Big Data,  5G
 - 🥅 2022 Goals: Strive
 - ⚡ Fun fact: I love to play basketball and solve problems
